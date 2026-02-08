@@ -1,2 +1,2 @@
 # Inter-LLM
-Codes of Inter-LLM for 2026 UR Submission
+Inter-LLM Codes for 2026 UR Submission
