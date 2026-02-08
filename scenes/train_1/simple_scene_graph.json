@@ -1,0 +1,498 @@
+{
+    "room|2": {
+        "room_type": "Kitchen",
+        "furnitures": [
+            {
+                "fur_id": "CounterTop|2|0",
+                "objects": [
+                    {
+                        "obj_id": "Book|surface|2|0"
+                    },
+                    {
+                        "obj_id": "Ladle|surface|2|1"
+                    },
+                    {
+                        "obj_id": "Egg|surface|2|4"
+                    },
+                    {
+                        "obj_id": "Bowl|surface|2|5"
+                    },
+                    {
+                        "obj_id": "Pan|surface|2|6"
+                    },
+                    {
+                        "obj_id": "Kettle|surface|2|7"
+                    },
+                    {
+                        "obj_id": "WineBottle|surface|2|8"
+                    },
+                    {
+                        "obj_id": "PaperTowelRoll|surface|2|9"
+                    },
+                    {
+                        "obj_id": "ButterKnife|surface|2|10"
+                    },
+                    {
+                        "obj_id": "ButterKnife|surface|2|11"
+                    },
+                    {
+                        "obj_id": "Potato|surface|2|12"
+                    },
+                    {
+                        "obj_id": "Spoon|surface|2|13"
+                    },
+                    {
+                        "obj_id": "SprayBottle|surface|2|14"
+                    },
+                    {
+                        "obj_id": "SaltShaker|surface|2|15"
+                    }
+                ]
+            },
+            {
+                "fur_id": "Fridge|2|1",
+                "objects": [
+                    {
+                        "obj_id": "Apple|surface|2|2"
+                    },
+                    {
+                        "obj_id": "Tomato|surface|2|3"
+                    }
+                ]
+            }
+        ]
+    },
+    "room|3": {
+        "room_type": "LivingRoom",
+        "furnitures": [
+            {
+                "fur_id": "DiningTable|3|0|0",
+                "objects": [
+                    {
+                        "obj_id": "Statue|surface|3|19"
+                    },
+                    {
+                        "obj_id": "Pencil|surface|3|20"
+                    },
+                    {
+                        "obj_id": "Book|surface|3|21"
+                    },
+                    {
+                        "obj_id": "Vase|surface|3|22"
+                    },
+                    {
+                        "obj_id": "Watch|surface|3|28"
+                    }
+                ]
+            },
+            {
+                "fur_id": "Chair|3|0|3",
+                "objects": [
+                    {
+                        "obj_id": "Bowl|surface|3|26"
+                    }
+                ]
+            },
+            {
+                "fur_id": "TVStand|3|1|0",
+                "objects": [
+                    {
+                        "obj_id": "Television|3|1|1"
+                    },
+                    {
+                        "obj_id": "Plate|surface|3|16"
+                    },
+                    {
+                        "obj_id": "CellPhone|surface|3|23"
+                    },
+                    {
+                        "obj_id": "CellPhone|surface|3|27"
+                    },
+                    {
+                        "obj_id": "Pen|surface|3|29"
+                    },
+                    {
+                        "obj_id": "CreditCard|surface|3|30"
+                    },
+                    {
+                        "obj_id": "Pencil|surface|3|31"
+                    },
+                    {
+                        "obj_id": "Candle|surface|3|32"
+                    },
+                    {
+                        "obj_id": "TissueBox|surface|3|33"
+                    },
+                    {
+                        "obj_id": "KeyChain|surface|3|34"
+                    }
+                ]
+            },
+            {
+                "fur_id": "GarbageCan|3|2",
+                "objects": [
+                    {
+                        "obj_id": "Candle|surface|3|24"
+                    }
+                ]
+            },
+            {
+                "fur_id": "Sofa|3|3",
+                "objects": [
+                    {
+                        "obj_id": "Newspaper|surface|3|17"
+                    },
+                    {
+                        "obj_id": "RemoteControl|surface|3|18"
+                    },
+                    {
+                        "obj_id": "Pillow|surface|3|25"
+                    }
+                ]
+            }
+        ]
+    },
+    "room|4": {
+        "room_type": "LivingRoom",
+        "furnitures": [
+            {
+                "fur_id": "TVStand|4|0|0",
+                "objects": [
+                    {
+                        "obj_id": "Television|4|0|1"
+                    },
+                    {
+                        "obj_id": "Watch|surface|4|35"
+                    },
+                    {
+                        "obj_id": "Candle|surface|4|36"
+                    },
+                    {
+                        "obj_id": "Vase|surface|4|38"
+                    },
+                    {
+                        "obj_id": "Statue|surface|4|39"
+                    },
+                    {
+                        "obj_id": "Bowl|surface|4|42"
+                    }
+                ]
+            },
+            {
+                "fur_id": "DiningTable|4|1|0",
+                "objects": [
+                    {
+                        "obj_id": "Plate|surface|4|37"
+                    },
+                    {
+                        "obj_id": "HousePlant|surface|4|40"
+                    },
+                    {
+                        "obj_id": "Statue|surface|4|41"
+                    }
+                ]
+            }
+        ]
+    },
+    "room|5": {
+        "room_type": "LivingRoom",
+        "furnitures": [
+            {
+                "fur_id": "TVStand|5|0|0",
+                "objects": [
+                    {
+                        "obj_id": "Television|5|0|1"
+                    },
+                    {
+                        "obj_id": "CreditCard|surface|5|48"
+                    },
+                    {
+                        "obj_id": "Newspaper|surface|5|50"
+                    },
+                    {
+                        "obj_id": "RemoteControl|surface|5|51"
+                    },
+                    {
+                        "obj_id": "Book|surface|5|53"
+                    }
+                ]
+            },
+            {
+                "fur_id": "DiningTable|5|1|0",
+                "objects": [
+                    {
+                        "obj_id": "RemoteControl|surface|5|43"
+                    },
+                    {
+                        "obj_id": "Laptop|surface|5|44"
+                    },
+                    {
+                        "obj_id": "Plate|surface|5|45"
+                    },
+                    {
+                        "obj_id": "DeskLamp|surface|5|46"
+                    },
+                    {
+                        "obj_id": "Pen|surface|5|47"
+                    },
+                    {
+                        "obj_id": "Bowl|surface|5|49"
+                    },
+                    {
+                        "obj_id": "Watch|surface|5|52"
+                    },
+                    {
+                        "obj_id": "Pencil|surface|5|54"
+                    },
+                    {
+                        "obj_id": "Book|surface|5|56"
+                    }
+                ]
+            },
+            {
+                "fur_id": "Sofa|5|2",
+                "objects": [
+                    {
+                        "obj_id": "Pillow|surface|5|55"
+                    }
+                ]
+            }
+        ]
+    },
+    "room|6": {
+        "room_type": "Bedroom",
+        "furnitures": [
+            {
+                "fur_id": "Bed|6|0|0",
+                "objects": [
+                    {
+                        "obj_id": "Pillow|6|0|2"
+                    },
+                    {
+                        "obj_id": "Pillow|6|0|1"
+                    },
+                    {
+                        "obj_id": "Laptop|surface|6|57"
+                    },
+                    {
+                        "obj_id": "Box|surface|6|62"
+                    }
+                ]
+            },
+            {
+                "fur_id": "Dresser|6|1",
+                "objects": [
+                    {
+                        "obj_id": "AlarmClock|surface|6|63"
+                    },
+                    {
+                        "obj_id": "RemoteControl|surface|6|66"
+                    }
+                ]
+            },
+            {
+                "fur_id": "DiningTable|6|2|0",
+                "objects": [
+                    {
+                        "obj_id": "CellPhone|surface|6|58"
+                    },
+                    {
+                        "obj_id": "CellPhone|surface|6|59"
+                    },
+                    {
+                        "obj_id": "DeskLamp|surface|6|60"
+                    },
+                    {
+                        "obj_id": "Mug|surface|6|61"
+                    },
+                    {
+                        "obj_id": "Pen|surface|6|64"
+                    },
+                    {
+                        "obj_id": "Bowl|surface|6|65"
+                    },
+                    {
+                        "obj_id": "Watch|surface|6|67"
+                    },
+                    {
+                        "obj_id": "Box|surface|6|68"
+                    }
+                ]
+            }
+        ]
+    },
+    "room|7": {
+        "room_type": "Bathroom",
+        "furnitures": [
+            {
+                "fur_id": "Toilet|7|0",
+                "objects": [
+                    {
+                        "obj_id": "SprayBottle|surface|7|69"
+                    },
+                    {
+                        "obj_id": "SoapBar|surface|7|71"
+                    }
+                ]
+            },
+            {
+                "fur_id": "Sink|7|1|0",
+                "objects": [
+                    {
+                        "obj_id": "Faucet|7|1|1"
+                    }
+                ]
+            },
+            {
+                "fur_id": "GarbageCan|7|2",
+                "objects": [
+                    {
+                        "obj_id": "ToiletPaper|surface|7|70"
+                    }
+                ]
+            }
+        ]
+    },
+    "room|8": {
+        "room_type": "Bedroom",
+        "furnitures": [
+            {
+                "fur_id": "Bed|8|0",
+                "objects": [
+                    {
+                        "obj_id": "BaseballBat|surface|8|74"
+                    },
+                    {
+                        "obj_id": "TeddyBear|surface|8|76"
+                    },
+                    {
+                        "obj_id": "Pillow|surface|8|77"
+                    }
+                ]
+            },
+            {
+                "fur_id": "Dresser|8|1",
+                "objects": [
+                    {
+                        "obj_id": "Book|surface|8|72"
+                    },
+                    {
+                        "obj_id": "Statue|surface|8|73"
+                    },
+                    {
+                        "obj_id": "Laptop|surface|8|75"
+                    },
+                    {
+                        "obj_id": "CellPhone|surface|8|78"
+                    },
+                    {
+                        "obj_id": "CD|surface|8|79"
+                    }
+                ]
+            }
+        ]
+    },
+    "room|9": {
+        "room_type": "Bathroom",
+        "furnitures": [
+            {
+                "fur_id": "Toilet|9|0",
+                "objects": [
+                    {
+                        "obj_id": "ToiletPaper|surface|9|80"
+                    },
+                    {
+                        "obj_id": "Candle|surface|9|81"
+                    },
+                    {
+                        "obj_id": "SoapBar|surface|9|84"
+                    }
+
+                ]
+            },
+            {
+                "fur_id": "Sink|9|1|0",
+                "objects": [
+                    {
+                        "obj_id": "Faucet|9|1|1"
+                    },
+                    {
+                        "obj_id": "DishSponge|surface|9|82"
+                    },
+                    {
+                        "obj_id": "SoapBottle|surface|9|83"
+                    }
+                ]
+            }
+        ]
+    },
+    "room|10": {
+        "room_type": "Bedroom",
+        "furnitures": [
+            {
+                "fur_id": "Bed|10|0",
+                "objects": [
+                    {
+                        "obj_id": "Book|surface|10|88"
+                    },
+                    {
+                        "obj_id": "TennisRacket|surface|10|92"
+                    },
+                    {
+                        "obj_id": "Pillow|surface|10|93"
+                    },
+                    {
+                        "obj_id": "CellPhone|surface|10|94"
+                    }
+                ]
+            },
+            {
+                "fur_id": "Dresser|10|1",
+                "objects": [
+                    {
+                        "obj_id": "Laptop|surface|10|85"
+                    },
+                    {
+                        "obj_id": "CellPhone|surface|10|86"
+                    },
+                    {
+                        "obj_id": "DeskLamp|surface|10|95"
+                    },
+                    {
+                        "obj_id": "Pencil|surface|10|96"
+                    },
+                    {
+                        "obj_id": "Book|surface|10|97"
+                    }
+                ]
+            }
+        ]
+    },
+    "room|11": {
+        "room_type": "Bathroom",
+        "furnitures": [
+            {
+                "fur_id": "Sink|11|0|0",
+                "objects": [
+                    {
+                        "obj_id": "Faucet|11|0|1"
+                    },
+                    {
+                        "obj_id": "DishSponge|surface|11|98"
+                    }
+                ]
+            },
+            {
+                "fur_id": "Toilet|11|1",
+                "objects": [
+                    {
+                        "obj_id": "ToiletPaper|surface|11|99"
+                    },
+                    {
+                        "obj_id": "SprayBottle|surface|11|100"
+                    }
+                ]
+            }
+        ]
+    }
+}

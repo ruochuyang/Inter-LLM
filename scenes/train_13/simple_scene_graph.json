@@ -1,0 +1,295 @@
+{
+    "room|4": {
+        "room_type": "Bedroom",
+        "furnitures": [
+            {
+                "fur_id": "Bed|4|0",
+                "fur_type": "Bed",
+                "objects": [
+                    {
+                        "obj_id": "RemoteControl|surface|4|2",
+                        "obj_type": "RemoteControl"
+                    },
+                    {
+                        "obj_id": "Pillow|surface|4|5",
+                        "obj_type": "Pillow"
+                    }
+                ]
+            },
+            {
+                "fur_id": "Dresser|4|1",
+                "fur_type": "Dresser",
+                "objects": [
+                    {
+                        "obj_id": "Vase|surface|4|0",
+                        "obj_type": "Vase"
+                    },
+                    {
+                        "obj_id": "Statue|surface|4|1",
+                        "obj_type": "Statue"
+                    },
+                    {
+                        "obj_id": "Pen|surface|4|3",
+                        "obj_type": "Pen"
+                    },
+                    {
+                        "obj_id": "RemoteControl|surface|4|4",
+                        "obj_type": "RemoteControl"
+                    }
+                ]
+            }
+        ]
+    },
+    "room|5": {
+        "room_type": "Bathroom",
+        "furnitures": [
+            {
+                "fur_id": "Toilet|5|0",
+                "fur_type": "Toilet",
+                "objects": [
+                    {
+                        "obj_id": "ToiletPaper|surface|5|6",
+                        "obj_type": "ToiletPaper"
+                    },
+                    {
+                        "obj_id": "DishSponge|surface|5|7",
+                        "obj_type": "DishSponge"
+                    },
+                    {
+                        "obj_id": "PaperTowelRoll|surface|5|8",
+                        "obj_type": "PaperTowelRoll"
+                    },
+                    {
+                        "obj_id": "SprayBottle|surface|5|9",
+                        "obj_type": "SprayBottle"
+                    },
+                    {
+                        "obj_id": "Candle|surface|5|10",
+                        "obj_type": "Candle"
+                    }
+                ]
+            },
+            {
+                "fur_id": "Sink|5|1|0",
+                "fur_type": "Sink",
+                "objects": [
+                    {
+                        "obj_id": "Faucet|5|1|1",
+                        "obj_type": "Faucet"
+                    }
+                ]
+            }
+        ]
+    },
+    "room|6": {
+        "room_type": "Bedroom",
+        "furnitures": [
+            {
+                "fur_id": "Bed|6|0",
+                "fur_type": "Bed",
+                "objects": [
+                    {
+                        "obj_id": "AlarmClock|surface|6|12",
+                        "obj_type": "AlarmClock"
+                    },
+                    {
+                        "obj_id": "TennisRacket|surface|6|19",
+                        "obj_type": "TennisRacket"
+                    },
+                    {
+                        "obj_id": "Pillow|surface|6|23",
+                        "obj_type": "Pillow"
+                    }
+                ]
+            },
+            {
+                "fur_id": "Dresser|6|1",
+                "fur_type": "Dresser",
+                "objects": [
+                    {
+                        "obj_id": "KeyChain|surface|6|11",
+                        "obj_type": "KeyChain"
+                    },
+                    {
+                        "obj_id": "Vase|surface|6|14",
+                        "obj_type": "Vase"
+                    },
+                    {
+                        "obj_id": "Statue|surface|6|15",
+                        "obj_type": "Statue"
+                    },
+                    {
+                        "obj_id": "CD|surface|6|24",
+                        "obj_type": "CD"
+                    }
+                ]
+            },
+            {
+                "fur_id": "Desk|6|3",
+                "fur_type": "Desk",
+                "objects": [
+                    {
+                        "obj_id": "TissueBox|surface|6|13",
+                        "obj_type": "TissueBox"
+                    },
+                    {
+                        "obj_id": "CellPhone|surface|6|16",
+                        "obj_type": "CellPhone"
+                    },
+                    {
+                        "obj_id": "Book|surface|6|17",
+                        "obj_type": "Book"
+                    },
+                    {
+                        "obj_id": "Watch|surface|6|18",
+                        "obj_type": "Watch"
+                    },
+                    {
+                        "obj_id": "CreditCard|surface|6|20",
+                        "obj_type": "CreditCard"
+                    },
+                    {
+                        "obj_id": "CD|surface|6|21",
+                        "obj_type": "CD"
+                    },
+                    {
+                        "obj_id": "Laptop|surface|6|22",
+                        "obj_type": "Laptop"
+                    }
+                ]
+            }
+        ]
+    },
+    "room|8": {
+        "room_type": "Kitchen",
+        "furnitures": [
+            {
+                "fur_id": "CounterTop|8|0",
+                "fur_type": "CounterTop",
+                "objects": [
+                    {
+                        "obj_id": "SaltShaker|surface|8|25",
+                        "obj_type": "SaltShaker"
+                    },
+                    {
+                        "obj_id": "HousePlant|surface|8|26",
+                        "obj_type": "HousePlant"
+                    },
+                    {
+                        "obj_id": "Fork|surface|8|27",
+                        "obj_type": "Fork"
+                    },
+                    {
+                        "obj_id": "SoapBottle|surface|8|33",
+                        "obj_type": "SoapBottle"
+                    },
+                    {
+                        "obj_id": "Knife|surface|8|34",
+                        "obj_type": "Knife"
+                    },
+                    {
+                        "obj_id": "Bottle|surface|8|35",
+                        "obj_type": "Bottle"
+                    },
+                    {
+                        "obj_id": "WineBottle|surface|8|36",
+                        "obj_type": "WineBottle"
+                    },
+                    {
+                        "obj_id": "Tomato|surface|8|38",
+                        "obj_type": "Tomato"
+                    }
+                ]
+            },
+            {
+                "fur_id": "DiningTable|8|1|0",
+                "fur_type": "DiningTable",
+                "objects": [
+                    {
+                        "obj_id": "Bottle|surface|8|31",
+                        "obj_type": "Bottle"
+                    },
+                    {
+                        "obj_id": "Toaster|surface|8|37",
+                        "obj_type": "Toaster"
+                    },
+                    {
+                        "obj_id": "CreditCard|surface|8|39",
+                        "obj_type": "CreditCard"
+                    },
+                    {
+                        "obj_id": "Tomato|surface|8|40",
+                        "obj_type": "Tomato"
+                    }
+                ]
+            },
+            {
+                "fur_id": "Fridge|8|2",
+                "fur_type": "Fridge",
+                "objects": [
+                    {
+                        "obj_id": "Egg|surface|8|28",
+                        "obj_type": "Egg"
+                    },
+                    {
+                        "obj_id": "Egg|surface|8|29",
+                        "obj_type": "Egg"
+                    },
+                    {
+                        "obj_id": "Egg|surface|8|30",
+                        "obj_type": "Egg"
+                    },
+                    {
+                        "obj_id": "Apple|surface|8|32",
+                        "obj_type": "Apple"
+                    }
+                ]
+            }
+        ]
+    },
+    "room|9": {
+        "room_type": "LivingRoom",
+        "furnitures": [
+            {
+                "fur_id": "DiningTable|9|0|0",
+                "fur_type": "DiningTable",
+                "objects": [
+                    {
+                        "obj_id": "Box|surface|9|42",
+                        "obj_type": "Box"
+                    },
+                    {
+                        "obj_id": "Box|surface|9|43",
+                        "obj_type": "Box"
+                    },
+                    {
+                        "obj_id": "Pencil|surface|9|44",
+                        "obj_type": "Pencil"
+                    },
+                    {
+                        "obj_id": "Newspaper|surface|9|45",
+                        "obj_type": "Newspaper"
+                    },
+                    {
+                        "obj_id": "RemoteControl|surface|9|46",
+                        "obj_type": "RemoteControl"
+                    }
+                ]
+            },
+            {
+                "fur_id": "Sofa|9|1",
+                "fur_type": "Sofa",
+                "objects": [
+                    {
+                        "obj_id": "Pencil|surface|9|41",
+                        "obj_type": "Pencil"
+                    },
+                    {
+                        "obj_id": "RemoteControl|surface|9|47",
+                        "obj_type": "RemoteControl"
+                    }
+                ]
+            }
+        ]
+    }
+}
