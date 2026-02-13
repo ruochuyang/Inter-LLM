@@ -6,7 +6,7 @@ algorithm: SayPlan  # Inter-LLM, MoMa-LLM, SayPlan
 scene_id: 1
 
 # LLM Configurations
-llm_model: gpt-4o  # gpt-4o-mini
+llm_model: gpt-5-mini  # gpt-5-nano
 temperature: 0.0   # 0.0 for deterministic, 1.0 for more random
 OPENAI_API_KEY: <Your Own Key>
 
