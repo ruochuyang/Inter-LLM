@@ -31,10 +31,10 @@
 
 ## Large ProcTHOR Scenes
 **scene train_1**
-![scene train_1](https://github.com/icrasubmission/Inter-LLM/blob/main/scenes/train_1/train_1.png)
+![scene train_1](https://github.com/ruochuyang/Inter-LLM/blob/main/scenes/train_1/train_1.png)
 
 **scene train_8**
-![scene train_1](https://github.com/icrasubmission/Inter-LLM/blob/main/scenes/train_8/train_8.png)
+![scene train_1](https://github.com/ruochuyang/Inter-LLM/blob/main/scenes/train_8/train_8.png)
 
 **scene train_13**
-![scene train_1](https://github.com/icrasubmission/Inter-LLM/blob/main/scenes/train_13/train_13.png)
+![scene train_1](https://github.com/ruochuyang/Inter-LLM/blob/main/scenes/train_13/train_13.png)
